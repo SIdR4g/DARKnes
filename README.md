@@ -7,6 +7,10 @@ Siddyant Das
 =======
 # DARKnes Experimental
 NES emulator
+<<<<<<< HEAD
 dsajdhkjadhkja
 adkhadhkjahnddasdsad
+>>>>>>> experimental
+=======
+
 >>>>>>> experimental
